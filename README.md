@@ -5,7 +5,7 @@ A deep learning model that classifies skin cancer types using CNNs with **93% ac
 
 ## Dataset  
 - Used **5,000 images** from the HAM10000 dataset.  
-- [Download Dataset from Kaggle](your_dataset_link_here)  
+- [Download Dataset from Kaggle](https://www.kaggle.com/datasets/amimoykumarbiswas/skin-cancer-detection)
 
 ## Technologies Used  
 - **Python, TensorFlow, Keras, OpenCV, Matplotlib**  
